@@ -28,4 +28,5 @@ Acesse o jogo diretamente pelo navegador através do link: Survival Mage - Const
 
 🛠️ Tecnologias Utilizadas
 Construct – Plataforma de desenvolvimento de jogos 2D baseada em HTML5.
-Link do Game: https://www.construct.net/en/free-online-games/survival-mage-76052/play
+
+-Link do Game: https://www.construct.net/en/free-online-games/survival-mage-76052/play
