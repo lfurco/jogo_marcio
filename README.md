@@ -18,9 +18,13 @@ Estilo retrô: Gráficos em pixel art que remetem aos clássicos dos anos 90.​
 - Como Jogar
 Acesse o jogo diretamente pelo navegador através do link: Survival Mage - Construct​
 
-- Capturas de Tela Dentro do jogo: 
+- Capturas de Tela Dentro do jogo (Construct): 
 ![Captura de tela 2025-04-30 001453](https://github.com/user-attachments/assets/67f85680-e5f3-4648-bf64-d2e3ec9da503)
 ![Captura de tela 2025-04-30 001506](https://github.com/user-attachments/assets/85d3bf65-9f36-477b-b4af-e036c12f37ca)
+
+- Captura de Tela do Banco de Dados (Firebase):
+![Captura de tela 2025-04-30 002706](https://github.com/user-attachments/assets/fe8c6c7e-b5e5-474b-aade-e5dcd5f752fc)
+
 
 🛠️ Tecnologias Utilizadas
 Construct – Plataforma de desenvolvimento de jogos 2D baseada em HTML5.
